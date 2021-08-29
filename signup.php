@@ -24,7 +24,8 @@
             }
             
         }   
-        else{
+        else
+        {
             echo "Password not Matched !!";
         }
 
