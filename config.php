@@ -14,4 +14,5 @@
     //         echo "Successfully Connected";
     // }
 
+    session_start();
 ?> 
